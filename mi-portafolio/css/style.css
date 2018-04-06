@@ -31,4 +31,8 @@ p {
     margin-bottom: 10px;
     border-radius: 10px;
 }
+li {
+    margin-bottom: 15px;
+    font-weight: bold;
+}
 
